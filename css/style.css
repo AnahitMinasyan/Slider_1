@@ -31,7 +31,6 @@
     left: 2%;
     font-size: 30px;
     color: wheat;
-    /*opacity: 0.5;*/
     cursor: pointer;
 }
 
@@ -41,7 +40,6 @@
     z-index: 10;
     right: 2%;
     font-size: 30px;
-    color: wheat;
-    /*opacity: 0.5;*/
+    color: wheat;  
     cursor: pointer;
 }
